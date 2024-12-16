@@ -1,0 +1,2 @@
+Este projeto simples mas desafiador que eu criei usando HTML e CSS . Projeto sobre uma empresa chamada ComexLink que atua na area de exportação de grãos e carnes. O maior desafio do projeto foi pensar em uma maneira de colocar a pagina em ingles e portugues .  Espero que gostem.
+This simple yet challenging project I created using HTML and CSS is about a company called ComexLink, which operates in the field of grain and meat exports. The biggest challenge of the project was figuring out how to make the page available in both English and Portuguese. I hope you enjoy it.
